@@ -1,0 +1,6 @@
+{'ID' : [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+             'Name' : ['John', 'Jack', 'Mariah', 'Krishna', 'Danny', 'Lisa', 'Andrew', 'Ravi', 'Garima', 'Kavita'],
+             'Gender' :['Male', 'Male', 'Female', 'Male', 'Male', 'Female', 'Male', 'Male', 'Female', 'Female'],
+              'Profession' : ['Manager', 'Manager', 'Developer', 'Team Lead', 'Team Lead', 'Assistant Manager', 'Assistant Manager', 'Manager', 'Assistant Manager', 'CEO'],
+              'Salary' : [100000, 120000, 95000, 99000, 105000, 145000, 155000, 78000, 167000, 195000],
+              'Experience' : [10, 13, 6, 8, 10, 13, 19, 15, 20, 24]}
